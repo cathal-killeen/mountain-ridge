@@ -1,0 +1,195 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Roboto Slab', serif;
+   	font-style: normal;
+   	font-weight: 100;
+}
+
+#background-image {
+	position: fixed;
+	z-index: 0;
+	height: 100%;
+	width: 100%;
+}
+
+#navbar-content {
+	position: relative;
+	width: 900px;
+	margin: 0 auto;
+}
+
+.logo {
+	display: block;
+	margin: 0 auto;
+	margin-top: 7px;
+	
+}
+
+#navbar {
+	position: absolute;
+	z-index: 1;
+	display: table;
+	height: 87px;
+	width: 100%;
+	background-color: rgba(255,255,255,0.9);
+}
+
+#navbar ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: center;
+}
+
+#navbar ul li {
+	display: table-cell; 
+	height: 60px;
+	padding-right: 30px;
+	line-height: 60px;
+    text-align: center;
+    white-space: nowrap;
+}
+
+#navbar a:link {
+	font-style: normal;
+	text-decoration: none;
+	color: rgb(128,128,128);
+}
+
+#navbar a:visited {
+	text-decoration: none;
+	color: rgb(128,128,128);
+}
+
+#navbar a:hover {
+    text-decoration: none;
+    color: rgb(207,181,59);
+}
+
+#main-content {
+	position: absolute;
+	width: 100%;
+	background-color: rgba(255,255,255,0.9);
+	margin-top: 500px;
+}
+
+#body-container {
+	position: relative;
+	width: 900px;
+	margin: 0 auto;
+}
+
+#main-body {
+	width: 570px;
+	margin: 0px;
+	float:left;
+}
+
+#main-body-text {
+	padding-top: 30px;
+	padding-right: 15px;
+	padding-bottom: 40px;
+}
+
+.side-box {
+	width: 320px;
+	height: 400px;
+	margin: 0px;
+	margin-bottom: 50px;
+	background-color: rgb(46,92,145);
+	float: right;
+}
+
+.side-box p {
+	color: #fff;
+}
+
+.side-icon {
+	-webkit-filter: invert(100%);
+	display: block;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+p {
+	color: rgb(80,80,80);
+}
+
+#footer {
+	width: 900px;
+	margin: 0px;
+	float: left;
+}
+
+#footer p {
+	text-align: center;
+	font-size: 80%;
+}
+
+.side-box table {
+	width: 100%;
+	padding:10px;
+	color: #fff;
+	font-size: 110%;
+	padding-top:40px;
+}
+
+.side-box .td-left {
+	text-align: right;
+	padding-right:25px;
+	font-weight:300;
+}
+
+.side-box .td-right {
+	text-align: left;
+	padding-left:50px;
+}
+
+h1 {
+	color: rgb(207,181,59);
+}
+
+p a {
+	text-decoration: none;
+}
+
+p a:hover {
+	text-decoration: underline;
+}
+
+#ticket-box p{
+	text-align: center;
+}
+
+#ticket-box {
+	padding-left: 18px;
+	padding-right: 18px;
+}
+
+th, td {
+    overflow: hidden;
+    width: 25%;
+    text-align: left;
+}
+
+.passes-table-highlight {
+	background-color: rgba(192,192,192,0.3);
+}
+
+#passes-table-gold {
+	background-color: rgba(207,181,59,0.3);
+}
+
+.text-input {
+	width: 350px;
+	height: 25px;
+	margin-bottom:5px;
+	padding: 4px;
+	padding-left: 6px;
+}
+
+
+
+
+
