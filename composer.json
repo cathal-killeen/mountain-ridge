@@ -1,0 +1,11 @@
+{
+    "name": "cathal/mountainridge",
+    "description": "A mock ski resort website",
+    "authors": [
+        {
+            "name": "Cathal Killeen",
+            "email": "cathalkilleen@gmail.com"
+        }
+    ],
+    "require": {}
+}
