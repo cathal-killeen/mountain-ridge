@@ -6,6 +6,8 @@ This website was built for the [Web Design] class I took at UCD. The brief for t
 
 I chose to build a website for a fictional ski resort called Mountain Ridge in Colorado. 
 
+For the project, the use of web frameworks (such as Bootstrap) wasn't allowed, so the site was build using raw HTML, CSS, JavaScript and PHP.
+
 
 [Web Design]: <https://sisweb.ucd.ie/usis/w_sm_web_inf_viewer_banner.show_module?p_subj=COMP&p_crse=20030&p_term_code=201400>
 [View Site]: <https://mountainridge.herokuapp.com/>
