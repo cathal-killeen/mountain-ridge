@@ -3,7 +3,7 @@
 <html>
 <head>
 <link rel="stylesheet" href="./style.css">
-<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet'>
 <title><?php echo $pageTitle ?></title>
 </head>
 
